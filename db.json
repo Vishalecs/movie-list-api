@@ -6,7 +6,8 @@
       "director": "Christopher Nolan",
       "year": 2010,
       "genre": "Sci-Fi",
-      "rating": 8.8
+      "rating": 5.0,
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e826ebbcc692b4d19059d24125cf23699067ab621c979612fd0ca11ab42a65cb._SX1080_FMjpg_.jpg"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "director": "Christopher Nolan",
       "year": 2008,
       "genre": "Action",
-      "rating": 9.0
+      "rating": 4.1,
+      "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kzzw5u80/poster/o/r/b/medium-joker-the-dark-knight-movie-on-fine-art-paper-hd-quality-original-imagbvmycjvpv5ph.jpeg?q=90&crop=false"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "director": "Christopher Nolan",
       "year": 2014,
       "genre": "Adventure",
-      "rating": 8.6
+      "rating": 5.0,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBmS2fXunDUEBghw03CwGihiiA4FZlQMgy7Q&s"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "director": "Lana Wachowski, Lilly Wachowski",
       "year": 1999,
       "genre": "Sci-Fi",
-      "rating": 8.7
+      "rating": 4.5,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUTDYaCrhcnw1ITJx2xueEnst1g2ra83HSw&s"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "director": "Frank Darabont",
       "year": 1994,
       "genre": "Drama",
-      "rating": 9.3
+      "rating": 4.4,
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e3e579706908883944a6a0711295c8ef16fa7c9122e48d076a465e1464952bc.jpg"
     }
   ]
 }
