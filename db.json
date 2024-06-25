@@ -44,6 +44,96 @@
       "genre": "Drama",
       "rating": 4.4,
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e3e579706908883944a6a0711295c8ef16fa7c9122e48d076a465e1464952bc.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "year": 1972,
+      "genre": "Crime, Drama",
+      "rating": 4.8,
+      "imageUrl": "https://cdn.britannica.com/55/188355-050-D5E49258/Salvatore-Corsitto-The-Godfather-Marlon-Brando-Francis.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": 1994,
+      "genre": "Crime, Drama",
+      "rating": 4.7,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWIwNDFiYmEtMWM3Ny00ZDQ2LTg5NzktODVmOWFjNGYzMDAzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "year": 1994,
+      "genre": "Drama, Romance",
+      "rating": 4.6,
+      "imageUrl": "https://cdn.aarp.net/content/aarpe/en/home/entertainment/movies-for-grownups/info-2022/forrest-gump/_jcr_content/root/container_main/container_body_main/container_body1/container_body_cf/container_image/articlecontentfragment/cfimage.coreimg.50.932.jpeg/content/dam/aarp/entertainment/movies-for-grownups/2022/03/1140-forrest-gump-bench.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "year": 1999,
+      "genre": "Drama",
+      "rating": 4.5,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fight-club-1-1571084249.jpg?crop=0.675xw:1.00xh;0.124xw,0&resize=640:*"
+    },
+    {
+      "id": 10,
+      "title": "Goodfellas",
+      "director": "Martin Scorsese",
+      "year": 1990,
+      "genre": "Biography, Crime, Drama",
+      "rating": 4.5,
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe6b793bf60b84da00167ef63647b54f577d616bae1a2451048e80b25f661683.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "year": 1991,
+      "genre": "Crime, Drama, Thriller",
+      "rating": 4.4,
+      "imageUrl": "https://www.indiewire.com/wp-content/uploads/2017/02/silence-of-the-lambs-anthony-hopkins-01.jpg?w=600&h=337&crop=1"
+    },
+    {
+      "id": 12,
+      "title": "Schindler's List",
+      "director": "Steven Spielberg",
+      "year": 1993,
+      "genre": "Biography, Drama, History",
+      "rating": 4.7,
+      "imageUrl": "https://i.guim.co.uk/img/media/208d00c732eeed823ec55afe35faf252843e0c59/0_47_2520_1512/master/2520.jpg?width=1200&quality=85&auto=format&fit=max&s=ead61e9d36b0cb652bb0e71da28aadd2"
+    },
+    {
+      "id": 13,
+      "title": "The Green Mile",
+      "director": "Frank Darabont",
+      "year": 1999,
+      "genre": "Crime, Drama, Fantasy",
+      "rating": 4.6,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzA4ZWRhNjktMTA3ZS00NDNiLThmMDMtNzdlYzk0ZjY2ZGFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Avatar",
+      "director": "James Cameron",
+      "year": 2009,
+      "genre": "Action, Adventure, Fantasy",
+      "rating": 4.3,
+      "imageUrl": "https://assets-prd.ignimgs.com/2023/01/15/avatar-blogroll2-1669090391194-1673813124246.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "director": "Peter Jackson",
+      "year": 2001,
+      "genre": "Action, Adventure, Drama",
+      "rating": 4.8,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/lordoftherings-1636391090.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1200:*"
     }
   ]
 }
